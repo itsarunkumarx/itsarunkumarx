@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner Gradient -->
-<img width="100%" src="/>
+
 
 <br/>
 
